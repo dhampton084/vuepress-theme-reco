@@ -3,7 +3,7 @@ export default {
     article: 'Article',
     tag: 'Tag',
     category: 'Category',
-    friendLink: 'Friend Link'
+    friendLink: 'More Links'
   },
   tag: {
     all: 'All'
